@@ -1,6 +1,6 @@
 {
   "name": "js-word-image",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Supports pure js export word documents and images (url format).",
   "main": "lib/index.js",
   "scripts": {
