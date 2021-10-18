@@ -1,0 +1,26 @@
+{
+  "name": "js-word-image",
+  "version": "1.2.0",
+  "description": "Supports pure js export word documents and images (url format).",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel -d lib/ src/",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lhxjoker",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.5"
+  },
+  "keywords": [
+    "Word",
+    "ExportWord",
+    "Js"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1"
+  }
+}
