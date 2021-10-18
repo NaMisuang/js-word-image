@@ -22,5 +22,10 @@
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-es2017": "^6.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NaMisuang/js-word-image.git"
   }
+  
 }
