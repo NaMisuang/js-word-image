@@ -1,4 +1,4 @@
-# js-word-image V1.2.0
+# js-word-image V1.2.2
 
 Support the front-end export of word documents to local, support the customization of word content, and support pictures (URL format)
 
