@@ -1,6 +1,11 @@
-# js-word-image V1.2.2
+# js-word-image V1.2.3
 
 Support the front-end export of word documents to local, support the customization of word content, and support pictures (URL format)
+
+
+## Update V1.2.3
+
+更新将npm包打包后ES6转ES5
 
 ## Installation
 
