@@ -1,6 +1,6 @@
 {
   "name": "js-word-image",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Supports pure js export word documents and images (url format).",
   "main": "lib/index.js",
   "scripts": {
@@ -27,5 +27,4 @@
     "type": "git",
     "url": "git@github.com:NaMisuang/js-word-image.git"
   }
-  
 }
